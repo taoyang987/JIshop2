@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.guoyukun.jdbc:mssql-jdbc4:16.2-b04">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/guoyukun/jdbc/mssql-jdbc4/16.2-b04/mssql-jdbc4-16.2-b04.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/guoyukun/jdbc/mssql-jdbc4/16.2-b04/mssql-jdbc4-16.2-b04-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/guoyukun/jdbc/mssql-jdbc4/16.2-b04/mssql-jdbc4-16.2-b04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
